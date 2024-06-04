@@ -1,3 +1,4 @@
 ### readme.thx
 
-This is the fierst commit
+update some contents ,version2
+This is the first commit
